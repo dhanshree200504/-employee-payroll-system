@@ -1,0 +1,8 @@
+# Employee Payroll Management System - Python Dependencies
+# No external dependencies required - uses only Python standard library
+# Python 3.6+ is required
+
+# Standard library modules used:
+# - tkinter (GUI framework)
+# - sqlite3 (Database)
+# - datetime (Date/time handling)
