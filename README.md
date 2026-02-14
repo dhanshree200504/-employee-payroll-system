@@ -2,10 +2,24 @@
 
 A comprehensive desktop application for managing employee information, attendance, and payroll calculations built with Python and Tkinter.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
-![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/dhanshree200504/-employee-payroll-system)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/dhanshree200504/-employee-payroll-system?style=for-the-badge)](https://github.com/dhanshree200504/-employee-payroll-system/stargazers)
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|----------|------|
+| 📦 **GitHub Repository** | [https://github.com/dhanshree200504/-employee-payroll-system](https://github.com/dhanshree200504/-employee-payroll-system) |
+| 📥 **Download Project** | [Download ZIP](https://github.com/dhanshree200504/-employee-payroll-system/archive/refs/heads/main.zip) |
+| 📖 **Documentation** | [Read Full Docs](https://github.com/dhanshree200504/-employee-payroll-system#readme) |
+| 🐛 **Report Bug** | [Create Issue](https://github.com/dhanshree200504/-employee-payroll-system/issues) |
+| ✨ **Request Feature** | [Create Issue](https://github.com/dhanshree200504/-employee-payroll-system/issues) |
+
+---
 
 ## 📋 Features
 
@@ -55,27 +69,34 @@ Automatically generate professional employee ID cards with employee photos and i
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/dhanshree200504/-employee-payroll-system.git
-   cd -employee-payroll-system
-   ```
+**Option 1: Clone with Git**
+```bash
+git clone https://github.com/dhanshree200504/-employee-payroll-system.git
+cd -employee-payroll-system
+pip install -r requirements.txt
+python payroll_app.py
+```
 
-2. **Install required packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the application**
-   ```bash
-   python payroll_app.py
-   ```
+**Option 2: Download ZIP**
+1. [Download ZIP file](https://github.com/dhanshree200504/-employee-payroll-system/archive/refs/heads/main.zip)
+2. Extract the ZIP file
+3. Open terminal/command prompt in the extracted folder
+4. Run the following commands:
+```bash
+pip install -r requirements.txt
+python payroll_app.py
+```
 
 ## 📦 Dependencies
 
 - **tkinter** - GUI framework (usually comes with Python)
 - **Pillow (PIL)** - Image processing for ID cards
 - **sqlite3** - Database (included in Python standard library)
+
+Install all dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## 💾 Database Structure
 
@@ -165,12 +186,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Dhanshree Porwal**
 - GitHub: [@dhanshree200504](https://github.com/dhanshree200504)
+- Project Link: [https://github.com/dhanshree200504/-employee-payroll-system](https://github.com/dhanshree200504/-employee-payroll-system)
 
 ## 🙏 Acknowledgments
 
@@ -181,13 +203,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Contact: dhanshree200504@github.com
+- **Open an issue**: [Create Issue](https://github.com/dhanshree200504/-employee-payroll-system/issues)
+- **Email**: dhanshree200504@github.com
 
-## ⭐ Star History
+## ⭐ Show Your Support
 
-If you find this project useful, please consider giving it a star!
+If you find this project useful, please consider giving it a star! ⭐
+
+[![GitHub stars](https://img.shields.io/github/stars/dhanshree200504/-employee-payroll-system?style=social)](https://github.com/dhanshree200504/-employee-payroll-system/stargazers)
+
+---
+
+## 📥 Quick Actions
+
+**📦 [View on GitHub](https://github.com/dhanshree200504/-employee-payroll-system)** | **⬇️ [Download ZIP](https://github.com/dhanshree200504/-employee-payroll-system/archive/refs/heads/main.zip)** | **🐛 [Report Bug](https://github.com/dhanshree200504/-employee-payroll-system/issues)** | **✨ [Request Feature](https://github.com/dhanshree200504/-employee-payroll-system/issues)**
 
 ---
 
 *Last Updated: February 2026*
+*Developed with ❤️ by Dhanshree Porwal*
