@@ -5,6 +5,7 @@ Tests core database and calculation functions without GUI
 """
 
 import os
+import sys
 import sqlite3
 from datetime import datetime
 
@@ -305,12 +306,12 @@ def test_database_operations():
 if __name__ == "__main__":
     try:
         test_database_operations()
-        exit(0)
+        sys.exit(0)
     except AssertionError as e:
         print(f"\n✗ Test failed: {e}")
-        exit(1)
+        sys.exit(1)
     except Exception as e:
         print(f"\n✗ Unexpected error: {e}")
         import traceback
         traceback.print_exc()
-        exit(1)
+        sys.exit(1)
