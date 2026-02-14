@@ -221,4 +221,4 @@ If you find this project useful, please consider giving it a star! ⭐
 ---
 
 *Last Updated: February 2026*
-*Developed with ❤️ by Dhanshree Porwal*
+*Developed by Dhanshree Porwal*
